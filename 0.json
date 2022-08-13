@@ -1,0 +1,31 @@
+{
+  "name": "Ball O' Yarn",
+  "symbol": "BoY",
+  "description": "",
+  "seller_fee_basis_points": 1000,
+  "image": "https://raw.githubusercontent.com/PnW1/BallOYarn/main/0.png",
+  "external_url": "",
+  "edition": 0,
+  "attributes": [
+    
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/PnW1/BallOYarn/main/0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "DSUaL5QJb5hfjXUjrwHiLCYn3R2xbihgnHeBwqsbwmXU",
+        "share": 50
+      },
+      {
+        "address": "3CVE58b9S1GnMjewWCbVYnWjD5QhHqxLTSqe2jvm1NqG",
+        "share": 50
+      }
+    ]
+  }
+}
